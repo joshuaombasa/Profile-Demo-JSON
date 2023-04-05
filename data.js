@@ -1,0 +1,19 @@
+ const users = [{
+        "username": "john",
+        "firstName": "John",
+        "lastName": "Doe",
+        "gender": "Male",
+        "profileURL": "img/male.png",
+        "email": "john.doe@example.com"
+    },
+    {
+        "username": "jane",
+        "firstName": "Jane",
+        "lastName": "Doe",
+        "gender": "Female",
+        "profileURL": "img/female.png",
+        "email": "jane.doe@example.com"
+    }
+]
+
+export default users
