@@ -1,3 +1,5 @@
 import users from './data.js'
 
-console.log(users)
+const usersHtml = users.map((user) => {
+    return `<div class="user-profile"></div>`
+})
