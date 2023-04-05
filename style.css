@@ -7,3 +7,15 @@ body {
     width: 600px;
     margin:  0 auto;
 }
+
+.user-profile {
+    border: 1px solid black;
+    font-size: 12px;
+}
+
+.image {
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
